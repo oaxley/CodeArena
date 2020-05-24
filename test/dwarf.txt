@@ -1,0 +1,4 @@
+; -=[The Dwarf]=-
+; dwarf gladiator
+; copy the current instruction to the next memory block
+move.i +0, 1

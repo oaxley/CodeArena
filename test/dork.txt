@@ -1,0 +1,5 @@
+; -=[The Dork]=-
+; dork gladiator
+; do strictly nothing useful
+start:
+    jmp start
